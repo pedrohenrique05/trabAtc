@@ -1,0 +1,4 @@
+VAR: DCC146
+EQUALS: =
+INT: 1000
+COMMENT: Aspectos Teóricos da Computação é nota 1000!
